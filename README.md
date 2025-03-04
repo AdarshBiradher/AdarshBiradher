@@ -1,11 +1,20 @@
 # 🚀 Biradher Adarsh  
 
-![Image](https://github.com/user-attachments/assets/5528604d-b3b9-4a66-91ca-48394c7c567a) 
-
+![Image](https://github.com/user-attachments/assets/5528604d-b3b9-4a66-91ca-48394c7c567a)  
 
 👋 Hi! I'm **Adarsh**, a passionate **Full-Stack Developer** who loves building **scalable** and **efficient** web applications.  
 I specialize in **React.js, Redux, MongoDB, and Node.js**, with a strong focus on delivering high-quality solutions.  
 Always excited about **new technologies, problem-solving, and collaborating on projects**!  
+
+---
+
+## 🎓 Education  
+
+📖 **BSc(computer science)** – *Osmania University/ AV College of Science, Arts and Commerce*  
+📅 **Year:** 2017 - 2020  
+📍 **Location:** Hyderabad, India  
+
+🔹 Relevant Coursework: Web Development course from NIIT Foundation and Full Stack development course from Imarticus Institute   
 
 ---
 
