@@ -1,8 +1,6 @@
 # 🚀 Biradher Adarsh  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/banner.webp" alt="Biradher Adarsh - Full-Stack Developer" width="100%" />
-</p>  
+![Image](https://github.com/user-attachments/assets/5528604d-b3b9-4a66-91ca-48394c7c567a) 
 
 ## 💻 About Me  
 
