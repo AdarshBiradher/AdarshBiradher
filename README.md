@@ -2,7 +2,6 @@
 
 ![Image](https://github.com/user-attachments/assets/5528604d-b3b9-4a66-91ca-48394c7c567a) 
 
-## 💻 About Me  
 
 👋 Hi! I'm **Adarsh**, a passionate **Full-Stack Developer** who loves building **scalable** and **efficient** web applications.  
 I specialize in **React.js, Redux, MongoDB, and Node.js**, with a strong focus on delivering high-quality solutions.  
